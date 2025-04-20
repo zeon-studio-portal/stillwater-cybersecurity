@@ -3,7 +3,7 @@ title: "Our Team"
 subtitle: "Meet our team"
 # meta description
 description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
-draft: false
+draft: true
 layout: "team"
 
 

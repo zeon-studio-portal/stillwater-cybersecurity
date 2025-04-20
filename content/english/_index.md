@@ -1,14 +1,13 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website development challenges"
+  title : "Assumenda laboriosam voluptatum aut soluta tempora"
   image : "images/banner-art.svg"
-  content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. <br> Simple enough with the sophistication and flexibility to meet the needs of large enterprises"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sapiente est asperiores mollitia quas. <br/> incidunt suscipit culpa ea deserunt facilis iure, fugiat assumenda laboriosam voluptatum aut soluta tempora quos! Quas!"
   button:
     enable : true
-    label : "Get started for Free"
-    link : "get-demo/"
-
+    label : "Contact Now"
+    link : "contact"
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
@@ -32,11 +31,11 @@ clients_logo_slider:
 feature:
   enable : true
   title : "The ultimate platform for creating, sharing, and executing."
-  content : "We are helping thousands of organizations run their business strategies and achieve their ambitious results! We make big plans happen."
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sapiente est asperiores mollitia quas.incidunt suscipit culpa ea deserunt facilis iure, fugiat assumenda laboriosam voluptatum aut soluta tempora quos! Quas!"
   button:
     enable : true
-    label : "Try for Free"
-    link : "get-demo/"
+    label : "Contact Us"
+    link : "contact/"
   feature_item:
   # feature item loop
   - name : "Cloud Support"

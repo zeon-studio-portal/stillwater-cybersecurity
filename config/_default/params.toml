@@ -2,8 +2,8 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
-logo_darkmode = "images/logo-w.png"
+logo = "images/logo.svg"
+logo_darkmode = "images/logo.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "180px"
@@ -17,7 +17,7 @@ theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#!" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/xnnpewvr" # contact form works with [https://airform.io/] or [https://formspree.io]
 # demo form action
 demo_form_action = "#!" # demo form works with [https://airform.io/] or [https://formspree.io]
 # career form action
@@ -39,8 +39,8 @@ preloader = "" # use jpg, png, svg or gif format. example - "images/preloader.gi
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get a Demo"
-link = "get-demo/"
+label = "Contact Us"
+link = "contact"
 
 # crisp chat
 # crisp chat module: https://github.com/gethugothemes/hugo-modules/tree/master/components/crisp-chat
@@ -100,18 +100,13 @@ button = "I Accept"
 
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+title = "reddit"
+icon = "fab fa-reddit" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#!"
 
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#!"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+title = "bluesky"
+icon = "fab fa-bluesky" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#!"
 
 [[social]]

@@ -12,7 +12,7 @@ require (
 	github.com/gethugothemes/hugo-modules/components/render-link v0.0.0-20240925042433-d2b5d05977e8 // indirect
 	github.com/gethugothemes/hugo-modules/gallery-slider v0.0.0-20240925042433-d2b5d05977e8 // indirect
 	github.com/gethugothemes/hugo-modules/gzip-caching v0.0.0-20240925042433-d2b5d05977e8 // indirect
-	github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20240925042433-d2b5d05977e8 // indirect
+	github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20250409040650-2f989f5e8ea1 // indirect
 	github.com/gethugothemes/hugo-modules/images v0.0.0-20240925042433-d2b5d05977e8 // indirect
 	github.com/gethugothemes/hugo-modules/pwa v0.0.0-20240925042433-d2b5d05977e8 // indirect
 	github.com/gethugothemes/hugo-modules/seo-tools/baidu-analytics v0.0.0-20240925042433-d2b5d05977e8 // indirect

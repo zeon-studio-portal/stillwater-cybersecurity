@@ -2,8 +2,8 @@
 title: "Get a Demo"
 # meta description
 description: "Vestibulum ante ipsum primis in faucibus orci luctus ultrices posuere cubilia Curae Donec"
-draft: false
-layout: "get-demo"
+draft: true
+layout: "contact"
 
 
 # banner
