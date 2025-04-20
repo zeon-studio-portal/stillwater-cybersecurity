@@ -12,7 +12,7 @@ banner:
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
   enable : true
-  title: "The best customer experiences are built with Bigspring"
+  title: "The best customer experiences are built with Stillwater Cybersecurity"
   logos:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"

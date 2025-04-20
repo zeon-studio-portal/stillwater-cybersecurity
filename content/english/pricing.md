@@ -2,7 +2,7 @@
 title: "Pricing"
 subtitle: "Everything you need for best in class service"
 description: "Everything you need for best in class service"
-draft: false
+draft: true
 layout: "pricing"
 
 pricing_list:

@@ -6,7 +6,7 @@ image: "images/blog/post-1.jpg"
 # author
 author: "Awab Husameldin"
 # post type (regular/featured)
-type: "featured"
+type: "regular"
 # meta description
 description: "This is meta description"
 # post draft

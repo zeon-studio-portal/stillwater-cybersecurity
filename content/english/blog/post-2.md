@@ -6,7 +6,7 @@ image: "images/blog/post-2.jpg"
 # author
 author: "Joseph Gonzalez"
 # post type (regular/featured)
-type: "regular"
+type: "featured"
 # meta description
 description: "This is meta description"
 # post draft

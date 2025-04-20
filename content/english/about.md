@@ -17,7 +17,7 @@ about:
 # founders_quote
 founders_quote:
   name: "Charles Dickens"
-  subtitle: "The Founder, Bigspring LLC"
+  subtitle: "The Founder, Stillwater Cybersecurity"
   image: "images/avatar/02.jpg"
   content: "We’re changing how product managers, developers, and data scientists plan, track, and govern analytics across organizations. Before Avo, teams were forced to choose between product delivery speed and reliable insights."
 
