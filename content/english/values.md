@@ -10,7 +10,7 @@ layout: "values"
 ######################### how it works banner #####################
 banner:
   title: "Your Partner for the best Software Innovation"
-  image: "images/vector.svg"
+  image: "images/banner-art.svg"
   content : "Create a best strategic tool, share it with your team and ensure it’s on track with intuitive dashboards. Simple enough with the sophistication and flexibility to meet the needs"
   button:
     enable : true
