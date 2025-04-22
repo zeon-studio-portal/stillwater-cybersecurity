@@ -16,7 +16,7 @@ parent = "Services"
 name = "Managed Security"
 pre = "<i class='dropdown-icon fas fa-shield-alt'></i>"
 post = "<small class='dropdown-subtitle'>Security as a service.</small>"
-url = "/services/managed-security"
+url = "services/managed-security/"
 weight = 1
 
 [[main]]
@@ -24,7 +24,7 @@ parent = "Services"
 name = "Zero Trust Network Access"
 pre = "<i class='dropdown-icon fas fa-network-wired'></i>"
 post = "<small class='dropdown-subtitle'>Zero trust network access.</small>"
-url = "/services/zero-trust-network-access"
+url = "services/zero-trust-network-access/"
 weight = 2
 
 [[main]]
@@ -32,7 +32,7 @@ parent = "Services"
 name = "vCISO Services"
 pre = "<i class='dropdown-icon fas fa-laptop-house'></i>"
 post = "<small class='dropdown-subtitle'>Application built to improve productivity.</small>"
-url = "/services/vCISO-services"
+url = "services/vCISO-services/"
 weight = 3
 
 [[main]]
@@ -40,13 +40,13 @@ parent = "Services"
 name = "Security Consulting"
 pre = "<i class='dropdown-icon fas fa-chart-line'></i>"
 post = "<small class='dropdown-subtitle'>Create custom reports from any data set.</small>"
-url = "/services/security-consulting"
+url = "services/security-consulting/"
 weight = 4
 
 [[main]]
 weight = 3
 name = "Blog"
-url = "/blog"
+url = "blog/"
 
 [[main]]
 weight = 4
@@ -56,26 +56,26 @@ hasChildren = true
 [[main]]
 parent = "Company"
 name = "About"
-url = "/about"
+url = "about/"
 weight = 1
 
 
 [[main]]
 parent = "Company"
 name = "Values"
-url = "/values"
+url = "values/"
 weight = 8
 
 [[main]]
 parent = "Company"
 name = "Career"
-url = "/career"
+url = "career/"
 weight = 9
 
 
 [[main]]
 name = "Contact"
-url = "/contact"
+url = "contact/"
 weight = 30
 
 # footer menu left
