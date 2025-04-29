@@ -25,7 +25,9 @@
     border-color: darken($color-primary, 5) !important;
   }
 }
-
+.btn-rounded-sm {
+  border-radius: 8px;
+}
 .btn-primary {
   background: $color-primary;
   color: $white;

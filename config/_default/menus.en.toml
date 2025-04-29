@@ -43,13 +43,9 @@ post = "<small class='dropdown-subtitle'>Create custom reports from any data set
 url = "services/security-consulting/"
 weight = 4
 
-[[main]]
-weight = 3
-name = "Blog"
-url = "blog/"
 
 [[main]]
-weight = 4
+weight = 3
 name = "Company"
 hasChildren = true
 
@@ -76,7 +72,35 @@ weight = 9
 [[main]]
 name = "Contact"
 url = "contact/"
-weight = 30
+weight = 4
+hasChildren = true
+
+[[main]]
+parent = "Contact"
+name = "Contact Us"
+url = "contact/"
+weight = 33
+
+[[main]]
+parent = "Contact"
+name = "Get A Quote"
+url = "get-a-quote/"
+weight = 35
+
+[[main]]
+parent = "Contact"
+name = "Free Assessment"
+url = "free-assessment/"
+weight = 37
+
+
+[[main]]
+weight = 5
+name = "Blog"
+url = "blog/"
+
+
+
 
 # footer menu left
 [[footer_left]]

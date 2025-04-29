@@ -6,7 +6,7 @@ logo = "images/logo.png"
 logo_darkmode = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "200px"
+logo_width = "230px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
@@ -39,8 +39,8 @@ preloader = "" # use jpg, png, svg or gif format. example - "images/preloader.gi
 # Navigation button
 [navigation_button]
 enable = true
-label = "Contact Us"
-link = "contact"
+label = "Client Portal"
+link = "https://stillwatercyber.com/"
 
 # crisp chat
 # crisp chat module: https://github.com/gethugothemes/hugo-modules/tree/master/components/crisp-chat
