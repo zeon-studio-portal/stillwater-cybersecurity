@@ -10,8 +10,8 @@
   transition: 0.3s ease;
 
   &-sm {
-    padding: 0.9em 1.6em;
-    font-size: 1em;
+    padding: 0.8em 1.3em;
+    font-size: 0.95em;
   }
 
   &:hover,
@@ -26,7 +26,7 @@
   }
 }
 .btn-rounded-sm {
-  border-radius: 8px;
+  border-radius: 6px;
 }
 .btn-primary {
   background: $color-primary;

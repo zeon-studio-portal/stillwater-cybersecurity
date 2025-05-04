@@ -135,3 +135,29 @@ Content folder contains the root file as _index.md. Open this page in any text e
 There are two types of pages in the Hugo theme, list page, and single page. The list page is kind of a landing page (ex: about page). And the single page is called the inner page of a product or a post (ex: blog single page). We need to define the structure or markup of every page.
 
 We already provided the necessary markup for the existing pages. You can find the markup in the themes/layout folder. For example, Career page layout is layout: career. We have also provided default list and single page layouts. So when you create a new page, you don’t need to define the layout. It will be the default layout.
+
+
+## 🚀 Build And Deploy
+After you finish your development, you can build or deploy your project almost everywhere. Let's see the process:
+
+### 👉 Build Command
+To build your project locally, you can use the following command.
+
+```bash
+npm run build
+```
+### 👉 Deploy Site
+We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
+
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Github Actions](https://github.com/features/actions)
+- [Gitlab Ci](https://docs.gitlab.com/ee/ci/)
+- [AWS Amplify](https://aws.amazon.com/amplify/)
+
+And if you want to Host some other hosting platforms. then you can build your project, and you will get a public folder. that you can copy and paste on your hosting platform.
+
+`Note: You must change the baseURL in the hugo.toml file. Otherwise, your site will not work properly.`
+
+
+
