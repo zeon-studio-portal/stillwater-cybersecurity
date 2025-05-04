@@ -1,12 +1,34 @@
 # Stillwater Cybersecurity
 
 ## Prerequisites
-You need to fulfill some prerequisites to configure your machine, before starting the development process of your static site via Hugo.
+You need to fulfill some prerequisites to configure your machine, before you start with this project.
 
 
 1. [Install Hugo](https://gohugo.io/getting-started/installing/)
 2. [Install Go](https://golang.org/dl/)
 3. [Install Nodejs](https://nodejs.org/en/download/)
+
+## Clone The Repository and Install Dependencies
+To clone the repository, run the following command:
+
+```bash
+git clone repository-url
+cd my-project
+```
+
+To install dependencies, run the following command:
+
+```bash
+npm install
+```
+
+## Run The Project Locally
+To run the project locally, run the following command:
+
+```bash
+npm run dev
+```
+
 
 
 ## Colors, Fonts and Plugins
@@ -101,8 +123,7 @@ In this project folder, you will find a file called `hugo.toml`. Open this file 
 - **disqusShortname**: Add your Disqus shortname to enable comments on the blog section. Follow this [tutorial](https://help.disqus.com/en/articles/1717111) to install Disqus.
 - **googleAnalytics**: Add your Google Analytics ID to enable analytics on all pages. Example: `UA-123-45`. If you want another third-party analytics, you can contact us for custom service.
 - **timeZone**: The default time zone for timestamps. Use any valid [TZ database name](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
-- **disableLanguages**: To disable languages, add the language name here. For example, `disableLanguages = ["fr"]` will disable French.
-- **hasCJKLanguage**: If true, auto-detect Chinese/Japanese/Korean Languages in the content.
+
 
 ### Default Parameters
 
