@@ -156,7 +156,26 @@ Content folder contains the root file as _index.md. Open this page in any text e
 There are two types of pages in the Hugo theme, list page, and single page. The list page is kind of a landing page (ex: about page). And the single page is called the inner page of a product or a post (ex: blog single page). We need to define the structure or markup of every page.
 
 We already provided the necessary markup for the existing pages. You can find the markup in the themes/layout folder. For example, Career page layout is layout: career. We have also provided default list and single page layouts. So when you create a new page, you don’t need to define the layout. It will be the default layout.
+---
 
+## Google Analytics
+You can add your own Google Analytics ID to enable analytics on all pages. go to `hugo.toml` file and change the `googleAnalytics` ID value.
+```toml
+[services]
+[services.googleAnalytics]
+ID = 'G-MEASUREMENT_ID' 
+```
+
+### For Google Analytics 4 (GA4) — Measurement ID (e.g., G-XXXXXXXXXX):
+
+1. Go to Google Analytics.
+2. Log in with your Google account.
+3. Select your property (or create a new one).
+4. In the left-hand menu, click Admin (⚙️).
+5. Under the Property column, click Data Streams.
+6. Select your web data stream.
+
+You'll see your Measurement ID at the top right — it looks like G-XXXXXXXXXX.
 
 ## 🚀 Build And Deploy
 After you finish your development, you can build or deploy your project almost everywhere. Let's see the process:
@@ -179,6 +198,5 @@ We have provided 5 different deploy platform configurations with this template, 
 And if you want to Host some other hosting platforms. then you can build your project, and you will get a public folder. that you can copy and paste on your hosting platform.
 
 `Note: You must change the baseURL in the hugo.toml file. Otherwise, your site will not work properly.`
-
 
 
